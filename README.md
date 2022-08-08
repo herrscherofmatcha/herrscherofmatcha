@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @herrscherofmatcha
-- 👀 I’m interested in web development and video games
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ???
-- 📫 not available
+- 👀 I’m interested in Web Development and Android Development
+- 🌱 I’m currently learning Web Development on TheOdinProject.com
+- 💞️ I’m looking to collaborate on anything
+- 📫 You can contact me at herrscherofmatcha222@gmail.com
 
 <!---
 herrscherofmatcha/herrscherofmatcha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
