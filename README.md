@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Web Development on TheOdinProject.com
 - 💞️ I’m looking to collaborate on anything
 - 📫 You can contact me at herrscherofmatcha222@gmail.com
+- 💝 This is my personal github(not professional)♡
 
 <!---
 herrscherofmatcha/herrscherofmatcha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
