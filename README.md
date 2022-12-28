@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @herrscherofmatcha
-- 👀 I’m interested in Web Development, Software Engineering and Ethical Hacking
+- 👀 I’m interested in Web Development/Software Engineering and Software Architecture
 - 🌱 I’m currently a student~
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 You can contact me at herrscherofmatcha222@gmail.com
