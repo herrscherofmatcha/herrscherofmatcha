@@ -1,9 +1,9 @@
+- Welcome to my Github!
 - 👋 Hi, I’m @herrscherofmatcha
 - 👀 I’m interested in CyberSecurity and Software Engineering
-- 🌱 I’m currently a student~
-- 💞️ I love Genshin Impact!
+- 🌱 I’m currently a student
+- 💞️ Everything is better in pink~
 - 📫 You can contact me at herrscherofmatcha222@gmail.com
-- This is my github!
 
 <!---
 herrscherofmatcha/herrscherofmatcha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
