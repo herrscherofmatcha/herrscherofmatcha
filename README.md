@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @herrscherofmatcha
-- 👀 I’m interested in Web Development/Software Engineering and Software Architecture
+- 👀 I’m interested in CyberSecurity and Software Engineering
 - 🌱 I’m currently a student~
-- 💞️ I’m looking to collaborate on anything interesting
+- 💞️ I love Genshin Impact!
 - 📫 You can contact me at herrscherofmatcha222@gmail.com
 - This is my github!
 
